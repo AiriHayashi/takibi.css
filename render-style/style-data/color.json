@@ -1,0 +1,83 @@
+{
+    "color-red": {
+        "color": "red !important"
+    },
+    "color-green": {
+        "color": "green !important"
+    },
+    "color-blue": {
+        "color": "blue !important"
+    },
+    "color-yellow": {
+        "color": "yellow !important"
+    },
+    "color-orange": {
+        "color": "orange !important"
+    },
+    "color-purple": {
+        "color": "purple !important"
+    },
+    "color-pink": {
+        "color": "pink !important"
+    },
+    "color-brown": {
+        "color": "brown !important"
+    },
+    "color-black": {
+        "color": "black !important"
+    },
+    "color-white": {
+        "color": "white !important"
+    },
+    "color-gray": {
+        "color": "gray !important"
+    },
+    "color-darkred": {
+        "color": "darkred !important"
+    },
+    "color-darkgreen": {
+        "color": "darkgreen !important"
+    },
+    "color-darkblue": {
+        "color": "darkblue !important"
+    },
+    "color-lightyellow": {
+        "color": "lightyellow !important"
+    },
+    "color-lightgreen": {
+        "color": "lightgreen !important"
+    },
+    "color-lightblue": {
+        "color": "lightblue !important"
+    },
+    "color-lightgray": {
+        "color": "lightgray !important"
+    },
+    "color-teal": {
+        "color": "teal !important"
+    },
+    "color-aqua": {
+        "color": "aqua !important"
+    },
+    "color-fuchsia": {
+        "color": "fuchsia !important"
+    },
+    "color-lime": {
+        "color": "lime !important"
+    },
+    "color-maroon": {
+        "color": "maroon !important"
+    },
+    "color-navy": {
+        "color": "navy !important"
+    },
+    "color-olive": {
+        "color": "olive !important"
+    },
+    "color-silver": {
+        "color": "silver !important"
+    },
+    "color-tomato": {
+        "color": "tomato !important"
+    }
+}
