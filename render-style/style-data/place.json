@@ -1,5 +1,14 @@
 {
   "absolute":{
-    
-  }
+    "position" : "absolute"
+  },
+  "flex":{
+    "position":"flex"
+   },
+   "relative":{
+     "position":"relative"
+   },
+  "static":{
+    "position":"static"
+  },
 }
